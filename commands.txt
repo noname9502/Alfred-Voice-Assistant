@@ -1,0 +1,224 @@
+wikipedia
+		
+play game
+	    
+read pdf
+		
+camera
+		
+tell me news
+
+open youtube
+				
+search on youtube
+
+close youtube
+		
+memory available
+			
+calculate
+		
+play song in youtube
+		
+set alarm
+		
+dictionary
+		
+translate
+		
+uzbek news
+
+running process
+		
+task manager
+		
+ram usage		
+			
+cpu usage
+		
+system information
+		
+cpu information
+		
+disk information
+		
+internet speed
+		
+memory information
+	
+voice man	
+voice woman
+
+#Question with begining what, who, how, where. For examples 
+#1-Who Prezident of Uzebekistan, 2-what is capital of Uzebekistan,
+#3-how much distance form earth to moon, 4-where was born Shakespeare
+
+what
+who
+how
+where
+			
+open google
+		
+google search
+	
+close google  
+		
+open new window
+		
+open incognito window
+		
+open history
+
+open downloads
+  
+new tab
+
+previous tab
+		
+next tab 
+		
+close tab 
+		
+close window 
+		
+clear browsing history
+			
+open stackoverflow
+
+play snake
+		
+play dino
+        
+play pac-man
+			
+play music
+		
+close music
+toss a coin
+		
+the time
+
+open firefox
+		
+maximize this window
+
+minimize this window
+
+close firefox
+		
+volume up
+        
+volume down
+		
+mute
+		
+refresh
+		
+scroll down
+		
+drag visual studio to the right
+rectangular spiral
+		
+send a mail
+
+fine good
+
+change my name to
+
+change name
+
+what's your name
+		
+brightness
+        
+battery
+		
+open movies
+		
+location of
+		
+take photo
+
+joke
+				
+search
+
+play
+
+why you came to world
+
+power point presentation
+
+is love
+
+reason for you
+
+change background		
+
+open bluestack
+
+take screenshot
+		
+switch the window
+switch window
+	
+hide all files
+hide this folder
+        
+visible
+make files visible
+		
+lock window
+
+shutdown system
+				
+empty recycle bin
+
+don't listen
+stop listening
+		 
+what is my ip address
+
+weather
+temperature
+
+month
+month is going
+
+today
+		
+restart
+	    
+hibernate"
+sleep
+	
+schedule my day
+yes		
+no
+		
+see my schedule
+
+log off
+
+sign out
+
+write a note
+		
+show note
+
+update Assistant
+
+Alfred
+		
+send message
+
+Good Morning
+		
+will you be my gf
+
+will you be my bf
+
+i love you
+
+goodbye
